@@ -1,6 +1,6 @@
 # Hypothesis: Tests that write themselves
 
-Code and slides for my Hypothesis talk at PyCon Canada 2016.
+Code and slides for my Hypothesis talk at PyOhio 2017.
 All dependencies needed are listed in `requirements.txt`.
 Was written for Python 2.7.12 but any version of 2.7 should work.
 
